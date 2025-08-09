@@ -17,7 +17,7 @@ To run this game on your local machine, follow these simple steps:
     ```
 2.  Run the game:
     ```bash
-    python3 2048.py
+    python3 game.py
     ```
 
 ---
